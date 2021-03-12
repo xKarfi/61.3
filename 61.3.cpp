@@ -14,8 +14,8 @@ class file
 };
 
 file::file(){
-	fIn.open("C:\\bledne.txt");
-	fOut.open("C:\\wynik3.txt");
+	fIn.open("bledne.txt");
+	fOut.open("wynik3.txt");
 }
 
 file::~file(){
